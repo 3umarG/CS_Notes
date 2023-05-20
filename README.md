@@ -5,8 +5,8 @@
 ## Table Of Contents :
  <details>
    <summary>C# Basics</summary>
+  <br>
   <ul>
-   <br>
      <li> data types.</li>
     <li> conditions. </li>
     <li> Loops. </li>
@@ -15,17 +15,15 @@
    </details>
    
  <details>
-   <summary>C# OOP</summary>
- <br>
-   <ul>
-    <li> Classes </li>
-    <li> Methods </li>
-    <li> Constructors </li>
-    <li> Fields  </li>
-    <li> Access Modifiers </li>
-    <li> Properties </li>
-    <li> Indexers </li>
-    
-    
-    </ul>
+     <summary>C# OOP</summary>
+   <br>
+     <ul>
+        <li> Classes </li>
+        <li> Methods </li>
+        <li> Constructors </li>
+        <li> Fields  </li>
+        <li> Access Modifiers </li>
+        <li> Properties </li>
+        <li> Indexers </li>
+      </ul>
    </details>
