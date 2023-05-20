@@ -5,16 +5,27 @@
 ## Table Of Contents :
  <details>
    <summary>C# Basics</summary>
-   <ul>
+  <ul>
+   <br>
      <li> data types.</li>
     <li> conditions. </li>
     <li> Loops. </li>
     <li> .NET Framework Components </li>
  </ul>
    </details>
+   
  <details>
    <summary>C# OOP</summary>
+ <br>
    <ul>
-        <li> Classes , Methods , Constructors , Fields , Access Modifiers , Properties , Indexers .</li>
+    <li> Classes </li>
+    <li> Methods </li>
+    <li> Constructors </li>
+    <li> Fields  </li>
+    <li> Access Modifiers </li>
+    <li> Properties </li>
+    <li> Indexers </li>
+    
+    
     </ul>
    </details>
