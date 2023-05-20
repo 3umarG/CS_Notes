@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "Calculator/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Calculator.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Calculator.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "Calculator/1.0.0": {
-      "type": "project",
-      "path": "../Calculator/Calculator.csproj",
-      "msbuildProject": "../Calculator/Calculator.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "Calculator >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\Ghost\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CS_projects\\Mosh\\Begginer\\Begginer.csproj",
-      "projectName": "Begginer",
-      "projectPath": "D:\\CS_projects\\Mosh\\Begginer\\Begginer.csproj",
+      "projectUniqueName": "D:\\CS_projects\\Mosh\\Calculator\\Calculator.csproj",
+      "projectName": "Calculator",
+      "projectPath": "D:\\CS_projects\\Mosh\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\Ghost\\.nuget\\packages\\",
-      "outputPath": "D:\\CS_projects\\Mosh\\Begginer\\obj\\",
+      "outputPath": "D:\\CS_projects\\Mosh\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ghost\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "D:\\CS_projects\\Mosh\\Calculator\\Calculator.csproj": {
-              "projectPath": "D:\\CS_projects\\Mosh\\Calculator\\Calculator.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
