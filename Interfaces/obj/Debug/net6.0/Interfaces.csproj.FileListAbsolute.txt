@@ -1,0 +1,15 @@
+D:\CS_projects\Mosh\Interfaces\bin\Debug\net6.0\Interfaces.exe
+D:\CS_projects\Mosh\Interfaces\bin\Debug\net6.0\Interfaces.deps.json
+D:\CS_projects\Mosh\Interfaces\bin\Debug\net6.0\Interfaces.runtimeconfig.json
+D:\CS_projects\Mosh\Interfaces\bin\Debug\net6.0\Interfaces.dll
+D:\CS_projects\Mosh\Interfaces\bin\Debug\net6.0\Interfaces.pdb
+D:\CS_projects\Mosh\Interfaces\obj\Debug\net6.0\Interfaces.csproj.AssemblyReference.cache
+D:\CS_projects\Mosh\Interfaces\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS_projects\Mosh\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+D:\CS_projects\Mosh\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+D:\CS_projects\Mosh\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\CS_projects\Mosh\Interfaces\obj\Debug\net6.0\Interfaces.dll
+D:\CS_projects\Mosh\Interfaces\obj\Debug\net6.0\refint\Interfaces.dll
+D:\CS_projects\Mosh\Interfaces\obj\Debug\net6.0\Interfaces.pdb
+D:\CS_projects\Mosh\Interfaces\obj\Debug\net6.0\Interfaces.genruntimeconfig.cache
+D:\CS_projects\Mosh\Interfaces\obj\Debug\net6.0\ref\Interfaces.dll
