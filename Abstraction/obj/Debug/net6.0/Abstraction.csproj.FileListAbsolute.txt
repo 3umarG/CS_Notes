@@ -1,0 +1,15 @@
+D:\CS_projects\Mosh\Abstraction\bin\Debug\net6.0\Abstraction.exe
+D:\CS_projects\Mosh\Abstraction\bin\Debug\net6.0\Abstraction.deps.json
+D:\CS_projects\Mosh\Abstraction\bin\Debug\net6.0\Abstraction.runtimeconfig.json
+D:\CS_projects\Mosh\Abstraction\bin\Debug\net6.0\Abstraction.dll
+D:\CS_projects\Mosh\Abstraction\bin\Debug\net6.0\Abstraction.pdb
+D:\CS_projects\Mosh\Abstraction\obj\Debug\net6.0\Abstraction.csproj.AssemblyReference.cache
+D:\CS_projects\Mosh\Abstraction\obj\Debug\net6.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS_projects\Mosh\Abstraction\obj\Debug\net6.0\Abstraction.AssemblyInfoInputs.cache
+D:\CS_projects\Mosh\Abstraction\obj\Debug\net6.0\Abstraction.AssemblyInfo.cs
+D:\CS_projects\Mosh\Abstraction\obj\Debug\net6.0\Abstraction.csproj.CoreCompileInputs.cache
+D:\CS_projects\Mosh\Abstraction\obj\Debug\net6.0\Abstraction.dll
+D:\CS_projects\Mosh\Abstraction\obj\Debug\net6.0\refint\Abstraction.dll
+D:\CS_projects\Mosh\Abstraction\obj\Debug\net6.0\Abstraction.pdb
+D:\CS_projects\Mosh\Abstraction\obj\Debug\net6.0\Abstraction.genruntimeconfig.cache
+D:\CS_projects\Mosh\Abstraction\obj\Debug\net6.0\ref\Abstraction.dll

@@ -13,3 +13,11 @@ D:\CS_projects\Mosh\OOP\obj\Debug\net6.0\refint\OOP.dll
 D:\CS_projects\Mosh\OOP\obj\Debug\net6.0\OOP.pdb
 D:\CS_projects\Mosh\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
 D:\CS_projects\Mosh\OOP\obj\Debug\net6.0\ref\OOP.dll
+D:\CS_projects\Mosh\OOP\bin\Debug\net6.0\Begginer.deps.json
+D:\CS_projects\Mosh\OOP\bin\Debug\net6.0\Begginer.runtimeconfig.json
+D:\CS_projects\Mosh\OOP\bin\Debug\net6.0\Begginer.exe
+D:\CS_projects\Mosh\OOP\bin\Debug\net6.0\Begginer.dll
+D:\CS_projects\Mosh\OOP\bin\Debug\net6.0\Calculator.dll
+D:\CS_projects\Mosh\OOP\bin\Debug\net6.0\Begginer.pdb
+D:\CS_projects\Mosh\OOP\bin\Debug\net6.0\Calculator.pdb
+D:\CS_projects\Mosh\OOP\obj\Debug\net6.0\OOP.csproj.CopyComplete

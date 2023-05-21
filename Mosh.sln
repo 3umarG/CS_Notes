@@ -5,7 +5,13 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Begginer", "Begginer\Begginer.csproj", "{A5BDAA9A-6201-4DA8-A06C-B60BACF80C37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{AB086C29-E2F1-4C38-BB39-8E5F7645F7E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP", "OOP\OOP.csproj", "{AB086C29-E2F1-4C38-BB39-8E5F7645F7E0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Calculator\Calculator.csproj", "{89EFA1B6-B4A9-4D86-8BAA-3DE25867D253}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{913C5259-C992-43E0-989F-B5C04B61B573}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "Abstraction\Abstraction.csproj", "{C6693E26-A412-4CAC-ABD4-1647C86826BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{AB086C29-E2F1-4C38-BB39-8E5F7645F7E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB086C29-E2F1-4C38-BB39-8E5F7645F7E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB086C29-E2F1-4C38-BB39-8E5F7645F7E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89EFA1B6-B4A9-4D86-8BAA-3DE25867D253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EFA1B6-B4A9-4D86-8BAA-3DE25867D253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EFA1B6-B4A9-4D86-8BAA-3DE25867D253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EFA1B6-B4A9-4D86-8BAA-3DE25867D253}.Release|Any CPU.Build.0 = Release|Any CPU
+		{913C5259-C992-43E0-989F-B5C04B61B573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913C5259-C992-43E0-989F-B5C04B61B573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913C5259-C992-43E0-989F-B5C04B61B573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913C5259-C992-43E0-989F-B5C04B61B573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6693E26-A412-4CAC-ABD4-1647C86826BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6693E26-A412-4CAC-ABD4-1647C86826BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6693E26-A412-4CAC-ABD4-1647C86826BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6693E26-A412-4CAC-ABD4-1647C86826BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

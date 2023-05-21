@@ -1,4 +1,7 @@
-﻿namespace OOP
+﻿using Calculator;
+using Begginer;
+
+namespace OOP
 {
     class Program
     {
@@ -26,6 +29,9 @@
             var cookie = new HttpCookie();
             cookie["contentType"] = "Json";
             Console.WriteLine(cookie["contentType"] ?? "Not Found Key");
+
+            var files = new FilesAndDirectories();
+            //var maths = new Maths(Id : 55);
         }
     }
 }

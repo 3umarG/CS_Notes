@@ -7,14 +7,41 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "OOP/1.0.0": {
+        "dependencies": {
+          "Begginer": "1.0.0",
+          "Calculator": "1.0.0"
+        },
         "runtime": {
           "OOP.dll": {}
+        }
+      },
+      "Begginer/1.0.0": {
+        "dependencies": {
+          "Calculator": "1.0.0"
+        },
+        "runtime": {
+          "Begginer.dll": {}
+        }
+      },
+      "Calculator/1.0.0": {
+        "runtime": {
+          "Calculator.dll": {}
         }
       }
     }
   },
   "libraries": {
     "OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Begginer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calculator/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

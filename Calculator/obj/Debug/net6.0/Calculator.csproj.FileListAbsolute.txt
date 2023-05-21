@@ -1,0 +1,12 @@
+D:\CS_projects\Mosh\Calculator\bin\Debug\net6.0\Calculator.deps.json
+D:\CS_projects\Mosh\Calculator\bin\Debug\net6.0\Calculator.dll
+D:\CS_projects\Mosh\Calculator\bin\Debug\net6.0\Calculator.pdb
+D:\CS_projects\Mosh\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+D:\CS_projects\Mosh\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS_projects\Mosh\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+D:\CS_projects\Mosh\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+D:\CS_projects\Mosh\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+D:\CS_projects\Mosh\Calculator\obj\Debug\net6.0\Calculator.dll
+D:\CS_projects\Mosh\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+D:\CS_projects\Mosh\Calculator\obj\Debug\net6.0\Calculator.pdb
+D:\CS_projects\Mosh\Calculator\obj\Debug\net6.0\ref\Calculator.dll
