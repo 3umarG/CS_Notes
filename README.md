@@ -25,5 +25,8 @@
         <li> Access Modifiers </li>
         <li> Properties </li>
         <li> Indexers </li>
+      <li> Abstraction </li>
+      <li> Polymorphism </li>
+      <li> Generics </li>
       </ul>
    </details>
