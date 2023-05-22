@@ -1,4 +1,4 @@
-# C# Notes
+# C Sharps Notes
 
 ## Throw this repository I write my own notes and code examples for my study of the C# and .Net Framework/Core.
 
