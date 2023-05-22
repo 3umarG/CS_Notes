@@ -1,0 +1,15 @@
+D:\CS_projects\Mosh\Advanced\bin\Debug\net6.0\Advanced.exe
+D:\CS_projects\Mosh\Advanced\bin\Debug\net6.0\Advanced.deps.json
+D:\CS_projects\Mosh\Advanced\bin\Debug\net6.0\Advanced.runtimeconfig.json
+D:\CS_projects\Mosh\Advanced\bin\Debug\net6.0\Advanced.dll
+D:\CS_projects\Mosh\Advanced\bin\Debug\net6.0\Advanced.pdb
+D:\CS_projects\Mosh\Advanced\obj\Debug\net6.0\Advanced.csproj.AssemblyReference.cache
+D:\CS_projects\Mosh\Advanced\obj\Debug\net6.0\Advanced.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS_projects\Mosh\Advanced\obj\Debug\net6.0\Advanced.AssemblyInfoInputs.cache
+D:\CS_projects\Mosh\Advanced\obj\Debug\net6.0\Advanced.AssemblyInfo.cs
+D:\CS_projects\Mosh\Advanced\obj\Debug\net6.0\Advanced.csproj.CoreCompileInputs.cache
+D:\CS_projects\Mosh\Advanced\obj\Debug\net6.0\Advanced.dll
+D:\CS_projects\Mosh\Advanced\obj\Debug\net6.0\refint\Advanced.dll
+D:\CS_projects\Mosh\Advanced\obj\Debug\net6.0\Advanced.pdb
+D:\CS_projects\Mosh\Advanced\obj\Debug\net6.0\Advanced.genruntimeconfig.cache
+D:\CS_projects\Mosh\Advanced\obj\Debug\net6.0\ref\Advanced.dll
