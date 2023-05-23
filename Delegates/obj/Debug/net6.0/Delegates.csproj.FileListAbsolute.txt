@@ -1,0 +1,15 @@
+D:\CS_projects\Mosh\Delegates\bin\Debug\net6.0\Delegates.exe
+D:\CS_projects\Mosh\Delegates\bin\Debug\net6.0\Delegates.deps.json
+D:\CS_projects\Mosh\Delegates\bin\Debug\net6.0\Delegates.runtimeconfig.json
+D:\CS_projects\Mosh\Delegates\bin\Debug\net6.0\Delegates.dll
+D:\CS_projects\Mosh\Delegates\bin\Debug\net6.0\Delegates.pdb
+D:\CS_projects\Mosh\Delegates\obj\Debug\net6.0\Delegates.csproj.AssemblyReference.cache
+D:\CS_projects\Mosh\Delegates\obj\Debug\net6.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS_projects\Mosh\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfoInputs.cache
+D:\CS_projects\Mosh\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfo.cs
+D:\CS_projects\Mosh\Delegates\obj\Debug\net6.0\Delegates.csproj.CoreCompileInputs.cache
+D:\CS_projects\Mosh\Delegates\obj\Debug\net6.0\Delegates.dll
+D:\CS_projects\Mosh\Delegates\obj\Debug\net6.0\refint\Delegates.dll
+D:\CS_projects\Mosh\Delegates\obj\Debug\net6.0\Delegates.pdb
+D:\CS_projects\Mosh\Delegates\obj\Debug\net6.0\Delegates.genruntimeconfig.cache
+D:\CS_projects\Mosh\Delegates\obj\Debug\net6.0\ref\Delegates.dll
