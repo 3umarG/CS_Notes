@@ -57,7 +57,16 @@
             Action<Photo> filtersHandler4 = IncreaseSaturation;
             filtersHandler4 += filters.DecreaseContrast;
             filtersHandler4 += filters.IncreaseBrightness;
-            processor.CompressWithAlgorithm("img4.jpg" , filtersHandler4 );
+            processor.CompressWithAlgorithm("img4.jpg", filtersHandler4);
+
+
+            // Delegates with using Lambda Expression
+            Console.WriteLine("*************** User 5 ***************");
+
+            processor.CompressWithAlgorithm("img5", photo =>
+            {
+                Console.WriteLine("Using Delegates with Lambda Expression");
+            });
 
         }
 
