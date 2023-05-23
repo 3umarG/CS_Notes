@@ -40,6 +40,12 @@
         public delegate void VideoDecodeEventHandler(object source, VideoDecodeEventArgs e);
         public event VideoDecodeEventHandler VideoDecoded;
 
+
+        // I can make new event without create new delegate for every one
+        // by using EventHandler or EventHandler<> for parameters 
+        public event EventHandler NoDataReceived;
+        public event EventHandler<Video> VideoDataReceived;
+
         public void Encode(Video video)
         {
             Console.WriteLine("Starting to Encode Video {0} : ", video.Title);

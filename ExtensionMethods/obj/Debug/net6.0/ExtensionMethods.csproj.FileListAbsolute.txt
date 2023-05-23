@@ -1,0 +1,15 @@
+D:\CS_projects\Mosh\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.exe
+D:\CS_projects\Mosh\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.deps.json
+D:\CS_projects\Mosh\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.runtimeconfig.json
+D:\CS_projects\Mosh\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.dll
+D:\CS_projects\Mosh\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.pdb
+D:\CS_projects\Mosh\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.csproj.AssemblyReference.cache
+D:\CS_projects\Mosh\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS_projects\Mosh\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.AssemblyInfoInputs.cache
+D:\CS_projects\Mosh\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.AssemblyInfo.cs
+D:\CS_projects\Mosh\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\CS_projects\Mosh\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.dll
+D:\CS_projects\Mosh\ExtensionMethods\obj\Debug\net6.0\refint\ExtensionMethods.dll
+D:\CS_projects\Mosh\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.pdb
+D:\CS_projects\Mosh\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.genruntimeconfig.cache
+D:\CS_projects\Mosh\ExtensionMethods\obj\Debug\net6.0\ref\ExtensionMethods.dll
