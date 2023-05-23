@@ -28,5 +28,7 @@
       <li> Abstraction </li>
       <li> Polymorphism </li>
       <li> Generics </li>
+      <li> Delegates </li>
+      <li> Lambda Expression </li>
       </ul>
    </details>
