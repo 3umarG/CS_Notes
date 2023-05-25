@@ -1,4 +1,4 @@
-﻿namespace ExtensionMethods
+﻿namespace System    
 {
     public static class StringExtension
     {

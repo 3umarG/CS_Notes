@@ -1,0 +1,16 @@
+D:\CS_projects\Mosh\AsynchronousProgramming\bin\Debug\net6.0\AsynchronousProgramming.exe
+D:\CS_projects\Mosh\AsynchronousProgramming\bin\Debug\net6.0\AsynchronousProgramming.deps.json
+D:\CS_projects\Mosh\AsynchronousProgramming\bin\Debug\net6.0\AsynchronousProgramming.runtimeconfig.json
+D:\CS_projects\Mosh\AsynchronousProgramming\bin\Debug\net6.0\AsynchronousProgramming.dll
+D:\CS_projects\Mosh\AsynchronousProgramming\bin\Debug\net6.0\AsynchronousProgramming.pdb
+D:\CS_projects\Mosh\AsynchronousProgramming\obj\Debug\net6.0\AsynchronousProgramming.csproj.AssemblyReference.cache
+D:\CS_projects\Mosh\AsynchronousProgramming\obj\Debug\net6.0\AsynchronousProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS_projects\Mosh\AsynchronousProgramming\obj\Debug\net6.0\AsynchronousProgramming.AssemblyInfoInputs.cache
+D:\CS_projects\Mosh\AsynchronousProgramming\obj\Debug\net6.0\AsynchronousProgramming.AssemblyInfo.cs
+D:\CS_projects\Mosh\AsynchronousProgramming\obj\Debug\net6.0\AsynchronousProgramming.csproj.CoreCompileInputs.cache
+D:\CS_projects\Mosh\AsynchronousProgramming\obj\Debug\net6.0\AsynchronousProgramming.dll
+D:\CS_projects\Mosh\AsynchronousProgramming\obj\Debug\net6.0\refint\AsynchronousProgramming.dll
+D:\CS_projects\Mosh\AsynchronousProgramming\obj\Debug\net6.0\AsynchronousProgramming.pdb
+D:\CS_projects\Mosh\AsynchronousProgramming\obj\Debug\net6.0\AsynchronousProgramming.genruntimeconfig.cache
+D:\CS_projects\Mosh\AsynchronousProgramming\obj\Debug\net6.0\ref\AsynchronousProgramming.dll
+D:\CS_projects\Mosh\AsynchronousProgramming\bin\Debug\net6.0\TextFile.txt
